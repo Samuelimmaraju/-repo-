@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # _MINI PROJECT_
+# Sir Im new to GIT so dont know much about pull requests and all so uploaded .py file. Kindly excuse me sir!
 # # DIABETES PREDICTION USING MACHINE LEARNING
 
 # ##  IMMARAJU SAMUEL - 20011D0505
